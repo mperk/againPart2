@@ -1,7 +1,7 @@
 againPart2
 ==========
 
-Again part of number
+Again part of number (Decimal number; section of repeated)
 
 Import an existing project in Eclipse
 
